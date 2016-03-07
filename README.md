@@ -1,6 +1,7 @@
 # Machine-Learning Class
 
-Machine Learning Classification
+
+#### Assignemt 1: Machine Learning Classification
 
 ---------
 * Binary Classifier
