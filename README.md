@@ -1,6 +1,16 @@
 # Machine-Learning Class
 
 
+#### Assignemt 2: Machine Learning Regression
+
+---------
+* Multiple regression
+* Dataset: Salaries
+* Task: Predict salary
+
+---------
+
+
 #### Assignemt 1: Machine Learning Classification
 
 ---------
