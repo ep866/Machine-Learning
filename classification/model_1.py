@@ -26,7 +26,7 @@ from IPython.display import display, HTML
 
 
 # read the data
-data = pd.read_csv('Amazon.csv')
+data = pd.read_csv('../Amazon.csv')
 data.shape
 data.head(5)
 
