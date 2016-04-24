@@ -1,12 +1,26 @@
 # Machine-Learning Class
 
 
+#### Assignemt 3: Machine Learning Clustering
+
+---------
+* KMeans
+* Dataset: Amazon reviews
+* Task: Amazon recommendation system
+* Report is in the Jupyter notebook
+* View clusters_size.png for a cluster size
+* View clusters.txt for a sample of the clusters
+
+---------
+
+
 #### Assignemt 2: Machine Learning Regression
 
 ---------
 * Multiple regression
 * Dataset: Salaries
 * Task: Predict salary
+* Report is in the Jupyter notebook
 
 ---------
 
