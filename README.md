@@ -1,7 +1,7 @@
 # Machine-Learning Class
 
 
-#### Assignemt 3: Machine Learning Clustering
+#### Assignment 3: Machine Learning Clustering
 
 ---------
 * KMeans
@@ -14,7 +14,7 @@
 ---------
 
 
-#### Assignemt 2: Machine Learning Regression
+#### Assignment 2: Machine Learning Regression
 
 ---------
 * Multiple regression
@@ -25,7 +25,7 @@
 ---------
 
 
-#### Assignemt 1: Machine Learning Classification
+#### Assignment 1: Machine Learning Classification
 
 ---------
 * Binary Classifier
