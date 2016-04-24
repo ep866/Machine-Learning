@@ -8,7 +8,7 @@
 * Dataset: Amazon reviews
 * Task: Amazon recommendation system
 * Report is in the Jupyter notebook
-* View clusters_size.png for a cluster size
+* View clusters_size.png for clusters size
 * View clusters.txt for a sample of the clusters
 
 ---------
