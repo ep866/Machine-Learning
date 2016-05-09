@@ -1,0 +1,413 @@
+***************************************************************************
+TRUE NEGATIVES
+***************************************************************************
+true negative
+ProductId: B000SDO5YQ
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 5
+Summary: Good value
+Text:  This is a mild espresso for those looking for straight espresso. I love sipping on a shot of these in the evening.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B004P4TL8E
+HelpfulnessNumerator: 1
+HelpfulnessDenominator: 2
+Score: 1
+Summary: Over priced on Amazon
+Text:  Cost was $48 at time of review.  Only $25 at other sites .... buy elsewhere!  Sometimes prime is worth paying an extra dollar or two. I will be comparison shopping a little more now.
+helpScore: 0.5
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B003PFUNU4
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 5
+Summary: tastes great!
+Text:  I believe this is the same brand a lot of coffee shops use. Sugar free tastes great! At the price I paid it is worth having a coffee shop at home.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B001EO5SCQ
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 4
+Summary: low sodium wild ride
+Text:  Wild Ride is some of the lowest sodium beef jerky I've found.  At least for Hoppin' Hickory and Gallopin' Pepper flavors.  Plus, they provide me with a way to get more of a whole food in my protein requirements.  Nice job, Wild Ride.<br /><br />Why only 4 stars?  The flavor could be the tiniest bit better.  The price could be a bit lower.  Reduce the sodium content of the other flavors, and the line would be more well-rounded for me.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B004NNHFZS
+HelpfulnessNumerator: 2
+HelpfulnessDenominator: 2
+Score: 5
+Summary: Crunchy pretzels with a nice zing
+Text:  OK, I'm from Buffalo so if you're going to sell a Buffalo Wing Pretzel, it better be good.<br /><br />Let me be honest, this is no substitute for an Anchor Bar wing, but as for a Buffalo Wing Pretzel, it's not bad. The pretzel pieces are mostly smallish, crunchy bites. A few larger pieces sneak in once in a while but mostly these are smallish nuggets with a pretty tasty and spicy, Buffalo Wing-ish taste.<br /><br />They're kind of addicting if you like the taste, and I do.
+helpScore: 1.0
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B000FA39GW
+HelpfulnessNumerator: 3
+HelpfulnessDenominator: 5
+Score: 5
+Summary: GREATEST COOKIES BY LORNA DOONE
+Text:  LORNA DOONE SHORTBREAD COOKIES ARE THE GREATEST COOKIES TO EAT!!! I USED TO EAT THEM AS A SPECIAL TREAT OVER 45 YEARS AGO AND TODAY I EAT THEM BECAUSE THEY ARE STILL A GREAT COOKIE. THEY ARE AS GOOD NOW AS THEY WERE WHEN I WAS A BOY BACK IN THE 50'S. SOMETIMES WHEN I NEED A BREAK I EAT A LORNA DOONE SHORTBREAD COOKIE AND IT TAKES ME BACK TO THE DAYS OF A CARE FREE CHILD HOOD WHERE A COOKIE WAS A SPECIAL TREAT THAT WE WERE GAVEN ONCE A MONTH AFTER MY DADS PAY CHECK CAME IN, MY MOM WOULD ASK ME AND MY TWO BROTHERS WHAT TEAT WE WANTED FOR BEING HELPFUL AND WORKING AFTER SCHOOL ALL MONTH. I ALWAYS ASKED FOR MY LORNA DOONES.
+helpScore: 0.6
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B007HP6DBQ
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 4
+Summary: Excellent Matcha for Beginners!
+Text:  There are so many good things to say about this matcha as well as this company.  Let's start with how awesome Red Leaf Tea is.<br /><br />The customer service is prompt and friendly.  They listen to your suggestions and opinions and take action to please their customers.  It's a sad world when decent customer service is a novelty, but Red Leaf Tea brings some joy back into a bleak world with their courtesy.  Thank you, Red Leaf Tea!<br /><br />Now, this matcha...it's great for beginners!  The price is perfect and you get a good amount of tea so you can experiment with  how you like to drink it.  The basic flavors here are sweet, green and minerally.  THe texture is pretty smooth with only a hint of a powdery texture.  It's a pleasing beverage hot, prepared in the traditional way.  Yes, the quality isn't the best, but it is definitely a good introduction.  It is not bitter at all and completely inoffensive.  I used to be scared of preparing my own matcha because the one time I did it before Red Leaf, it was with a horrible matcha that was extremely bitter.  Now I make myself matcha drinks all the time!<br /><br />After trying this tea the traditional way to fully appreciate the flavors you're working with, you can use the powder to add flavor and healthiness to pretty much anything!  Like the Starbucks green tea latte?  Now you can make your own at a fraction of the cost!  Breakfast smoothie need a healthy caffeine kick?  BAM! Starter Matcha to the rescue!  Want some green tea cookies to go with your green tea latte?  You know where I'm going with this.  :)<br /><br />My favorite way to have this matcha right now is to add it to my Almond milk, banana smoothie.  It was also awesome in my amaretti cookies.  :)<br /><br />Conclusion?  Highly recommended!
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B000FBM3RC
+HelpfulnessNumerator: 2
+HelpfulnessDenominator: 2
+Score: 5
+Summary: I love butter cookies.
+Text:  These cookies didn't disappoint.  They are delicious and go really well with a cup of tea or coffee.  They have just the right amount of sweetness...not cloying.  (I think American desserts usually go overboard on sugar).  I highly recommend them.
+helpScore: 1.0
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B0043OGJK4
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 4
+Summary: Potassium Pick-me-Up
+Text:  I've been using CocoHydro, Original, for 2 months now. I remember finding their website and inquiring about the nutritional information for this product before it was even sold on the market. The company has been very considerate and prompt to answer all my emails and questions! I suffer chronic hypokalemia (low potassium) in conjunction with a lifelong history of eating disorders and health problems in relation to them. I need all the added nutrients I can get, including weekly nutrient IV therapy due to radical defeciences and digestion/absorption problems. I have been using Cocohydro as a supplement everyday and love it. It's a great way to boost electrolytes. I add it to my food and beverages, even fresh coconut water that I drink daily... every little bit helps. I was expecting more of a coconut taste and was surprised to find it rather bland but my primary purpose of usage is supplementation so it doesn't bother me that it's plain. The amount of potassium in 1 single serving literally almost compares to the amount of potassium in a serving of fresh coconut water. I can double the fun and add both together for a super boost! I have no interest in the flavored varities but I'm sure they offer more taste than the original - for those who feel they need added flavor. I order through subscribe and save and get a discount on my purchases! I get 2 bags sent to me every month so I don't have to worry about running out or ordering again. PS. Great for car or travel, carry an extra in your car or bring one with you - you never know when you will need an extra boost!
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+true negative
+ProductId: B001IZBWOE
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 2
+Summary: Careful when using on cookies!!
+Text:  I bought this emulsion to enhance the flavor of my orange and vanilla bean sugar cookies and was told by experienced bakers it would NOT change the consistency of my cookie but it did! They didn't rise as they usually do - the flavor was definitely there but they didn't rise as they usually do! Since I can't return the product, I will use it in my buttercream and cakes but definitely not for my sugar cookies.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+***************************************************************************
+TRUE POSITIVES
+***************************************************************************
+true positive
+ProductId: B001EO7LVM
+HelpfulnessNumerator: 6
+HelpfulnessDenominator: 6
+Score: 5
+Summary: Great nuts!
+Text:  My mom is 85 and she loves Brazil nuts. These are excellent tasting and a good price. Sometimes I will dip in chocolate and make her a gift basket (did I mention she is also a chocoholic?). Will definitely purchase again.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B002ZOCEX0
+HelpfulnessNumerator: 5
+HelpfulnessDenominator: 5
+Score: 5
+Summary: Try this coffee if you like Vanilla flavoring
+Text:  This is just a delightful coffee.  My husband and I are fans of flavored coffee, particularly vanilla and hazelnut.  Even though this is already ground, there is a distinct vanilla aroma/flavor that lasts and is not overpowering.  A secondary concern is that I drink about five cups a day, so I'm looking for any acidic reaction; there is none.  The coffee strength is medium, perfect for drinking in the morning and all day.  I always keep my coffee, especially ground, in the freezer for freshness.  The expiration date is clearly marked on the bottom of the package; mine are for June 29, 2011, but the four packages will not last that long.  Do the math on the cost; my purchase worked about to about $6.60 per pound, including super saver shipping, which is most reasonable these days.  I recommend this coffee.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B004LKVRLG
+HelpfulnessNumerator: 6
+HelpfulnessDenominator: 6
+Score: 5
+Summary: Himalayan Dark Pink Salt will keep you in the pink.
+Text:  If you're looking for great value and great taste then this product is for you. I was skeptical about artisan salts and sea salts being different than regular salt until I accidentally ordered a case of sea salt from Portugal from our Co-op. Artisan salts and sea salts add flavor and zing to sea food, grilled foods and vegetables. I've never looked back and only use these special kinds of salts on everything. Be advised, though, if you put pink salt on something, it will turn that something slightly pink.<br /><br />Try this salt and then try salt from Hawaii, Portugal, France, prussian blue from Germany, salt from Japan, Mexico, etc ... You will be surprised at the diversity in taste.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B002UUJ590
+HelpfulnessNumerator: 4
+HelpfulnessDenominator: 4
+Score: 5
+Summary: Jelly Belly is the BEST out there!
+Text:  Jelly Belly really does have true-to-life flavors! EVERY SINGLE FLAVOR in that box tastes exactly like what it should. A little pamphlet comes inside the Jelly Belly box, which tells you what different jelly beans you can mix to create a certain food. For example, 2 peanut butter jelly beans + 1 jam jelly bean = peanut butter jelly sandwich. It has a lot of fun combinations and surprisingly, they all taste like the foods that they should!<br /><br />This is really a great gift. Everyone I've given it to can't stop talking about how real these flavors taste, and the kids have lots of fun looking at the pamphlet and mixing the jelly beans to create foods!
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B003Q4TZFI
+HelpfulnessNumerator: 8
+HelpfulnessDenominator: 8
+Score: 5
+Summary: BEST THING I'VE EVER TASTED
+Text:  WARNING: If you drink this, you will never ever want to drink anything else again.<br /><br />I never write reviews. Especially for food, let alone a beverage.<br /><br />I happened upon this beverage by accident. My boyfriend and I love Perrier and we discovered this flavor during an out of state trip to see his parents. It was so good we searched across the internet to try to ship it to our home state, but without luck. Turns out we couldn't find it b/c we were searching "pamplemousse rose" the original labeling. My genius boyfriend decided to search for grapefruit :-) and he surprised me with a huge case.<br /><br />I know this sounds silly but I haven't even had Perrier since we discovered this flavor. It beats all of them and totally agree, you will never want soda after this.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B000VK4AZU
+HelpfulnessNumerator: 4
+HelpfulnessDenominator: 4
+Score: 5
+Summary: Perfect recipe!
+Text:  I highly recommend this granola. It tastes incredible and is not overly sweet -- just perfectly so. It is very difficult to find a healthy granola with great flavor and big clusters without it also being loaded with sugar. This one is a winner! Also applaud Galaxy Granola -- so refreshing to see a company demonstrate such conscientiousness about every ingredient. Bravo!
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B000JZYM8C
+HelpfulnessNumerator: 6
+HelpfulnessDenominator: 6
+Score: 5
+Summary: Great Chocolate Bar
+Text:  One of the best I've had. It doesn't have any unnecessarily added fats. The ingredients are 100% natural, the sweetening is 100% natural, and the taste is 100% delicious. If you love your chocolate with a hint of bitter taste (dark or bittersweet), you'll probably find this bar delicious.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B000CQC064
+HelpfulnessNumerator: 5
+HelpfulnessDenominator: 5
+Score: 5
+Summary: OMG Good!
+Text:  It is a damp, rainy night in Baltimore.  At 43 degrees, there is a definite chill in the air.  Great time to get into my jammies and curl up with a cup of Stash Tea, put on my favorite singer (BM) and write Amazon reviews for you fine folks out there!<br /><br />I have been a tea drinker all my life, and Stash is great tea.  This flavor is wonderful and one of my old favorites.  Now they have plenty new and creative flavors but this still remains wonderful, simple, and basic, with a nice smooth peach flavoring.  Stash is stronger than your basic tea bags (Lipton, etc.) so depending on how strong you like your tea, you might only need one bag for a 24 oz cup like I do.  I drink it black with natural unbleached sugar or agave nectar (sweetener made from cactus juice and available in many food stores in the organic section.)<br /><br />Great flavor and worth the price difference.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B000E18CVY
+HelpfulnessNumerator: 6
+HelpfulnessDenominator: 6
+Score: 5
+Summary: Fast dinner
+Text:  My spouse eats this with shrimp; I eat it with tofu.  We add sauteed onions, red and green peppers, and celery.  Bodacious!  It is ready in no time.  And is one of the lowest sodium versions of Annie Chun's kits.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+true positive
+ProductId: B000I2MW6K
+HelpfulnessNumerator: 11
+HelpfulnessDenominator: 12
+Score: 3
+Summary: Not the original Knorr Pesto Sauce mix-this is loaded with artificial ingredients.
+Text:  I bought a huge case of these knorr pesto sauces because my fiancee and I used to eat them a year ago all the time and back then they were delicious.  But then we moved and my local grocery store did not carry the knorr pasta sauces.  However when they arrived and I opened the package I was in for a big disappointment.  One thing I used to love about knorr was they used real ingredients-real parmesan and romano cheeses. Apparently not any more.  Now this sauce mix is completely artificial-corn starch and preservatives and artificial flavors-blech!  It doesn't taste anywhere near as good as the original.<br /><br />However I give it three stars because it's still tastes better than a lot of the sauces in the store and at least you can use olive oil in your sauce instead of the vegetable oil based sauces in the store.  Knorr should be ashamed for ruining a great product.  If they had stuck to the original recipe, I'd have given it five stars.  I know they are saving money by using artificial ingredients but the cost is too high as this affects the taste and our health.  I wouldn't have bought 24 packs if I had known the recipe had changed.  I hope they will reconsider the change and put real ingredients back in this product.  Here are the ingredients since Amazon doesn't list them:<br /><br />Maltodextrin, corn starch, wheat flower, salt, whey (milk), monosodium glutamate,spinach, garlic powder, basil, sugar, natural flavor (soy), onion powder, spice
+helpScore: 0.916666666667
+helpful: True
+---------------------------------------------------------------------------
+***************************************************************************
+FALSE NEGATIVES
+***************************************************************************
+false negative
+ProductId: B00012175O
+HelpfulnessNumerator: 9
+HelpfulnessDenominator: 9
+Score: 5
+Summary: AWESOME !!!
+Text:  I didn't order them from Amazon because I can find this brand in a store in Houston. So I cannot review the shipping...<br /><br />I was looking for boudins noirs for a long time. These are great !!! The texture and tastes are just awesome.<br /><br />They are delicious cooked in the oven, or on a fry pan (without adding any oil or butter) with apples, rice etc...<br /><br />They are also good in a pie (with apple also).
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B001E5E1PA
+HelpfulnessNumerator: 4
+HelpfulnessDenominator: 4
+Score: 1
+Summary: This vegan calls it vile
+Text:  I was happy to find this vegan alternative to powdered coffee creamers. Sadly, when I tried it the taste was quite unpleasant. I even gave it another shot in a second cup of coffee later that day, but by then the disgusting smell was such a turn-off that I couldn't even gulp it down. Looks like it's back to refrigerated non-dairy creamers for me. I am also frustrated that I had to buy this product in a two-pack--what a rip-off!
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B002MAX026
+HelpfulnessNumerator: 4
+HelpfulnessDenominator: 4
+Score: 2
+Summary: Not their best product, that's for sure
+Text:  I'm a *BIG* fan of the Vitalicious VitaTop products ("maximum nutrition for minimum calories")--especially the Deep Chocolate version--so I was eager to try the BlueBran mix.  But I have to say I was disappointed with this product. Don't be fooled by the photo on the box, people! The "blue bran" name is misleading--I found approximately 3 freeze-dried blueberry 'chips' in my batter. You will definitely need to add your own fresh or frozen blueberries to the mix, otherwise you'll just have plain old bran muffins.<br /><br />Even after I added fresh blueberries to my batter, the end product was not very good--it was gooey and bland, with a weird after-taste.  My family usually inhales the Vitalicious products, but these are still in the freezer.<br /><br />I have two boxes of the mix left, so I'm going to try adding chunks of apple to the next batch, along with some cinnamon to give it some flavor, and see if I get a better result.  Bottom line: Skip these and go for the Vitalicious Deep Chocolate mix.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B000RYPP5E
+HelpfulnessNumerator: 5
+HelpfulnessDenominator: 5
+Score: 5
+Summary: great product
+Text:  Lee Kum Kee never disappoints me.<br />As an Asian, I highly recommend it to all who want real Chinese tastes.<br />Easy to use, great Products!
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B000612VL4
+HelpfulnessNumerator: 7
+HelpfulnessDenominator: 7
+Score: 5
+Summary: Red Velvet Cake - Surprisingly Delicious
+Text:  Having remembered Red Velvet cake from the south as a child, I found this cake mix to be excellent and it has received rave reviews from adults and kids alike.  Rich like chocolate, but lighter - this is a solid favorite of all who try it for the first time. The color is enticing to some, scary to others, but once tasted - with a cream cheese frosting - all are fans.  Easy to make, perfect every time!
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B005F0JM7W
+HelpfulnessNumerator: 5
+HelpfulnessDenominator: 5
+Score: 5
+Summary: I love this K-cup holder so much I bought a second one!!
+Text:  I don't like to have a lot of kitchen counter clutter so I was so happy to find this product.  I read a bunch of the reviews ahead of time so I went ahead and secured it with the screws so it wouldn't go anywhere.  I love this thing so much that I bought a second one so both my husband and I can have our own coffees in our own holders. The design is sleek and I love being able to have a bunch of different flavored coffees right by my Keurig without having a pile of different boxes on the counter.<br /><br />The one tip I would like to pass on is to open and close the holder by using the front bar only.  Otherwise it can go up cockeyed and not close up flat.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B001EQ4QJK
+HelpfulnessNumerator: 5
+HelpfulnessDenominator: 5
+Score: 5
+Summary: Addicting is right!
+Text:  Wasabi!  Almonds!  What's not to love?  Can't stop eating these, glad they come in packs of six...
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B0029ZAOW8
+HelpfulnessNumerator: 4
+HelpfulnessDenominator: 4
+Score: 5
+Summary: Thank the Heavens for this
+Text:  I stock pile and train with 5 Hour and am glad for it, for the Zombie Apocalypse is near. Miami yesterday, tomorrow everywhere. Stock up while you can.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B006N3HZ6K
+HelpfulnessNumerator: 105
+HelpfulnessDenominator: 110
+Score: 5
+Summary: Extra Bold Flavor and Green Packaging (Finally)
+Text:  My husband likes his coffee extremely strong, so much so that I brew the 5 oz cups and double up on the kcups in a large mug. Basically, he likes sludge, lol.<br /><br />He had been drinking Timothy's French Roast, but the price has gone up again and I really despise the packaging. Really...they're kcups, not bone china, why the need for 2 packages, carboard, plastic and another box?<br /><br />I like the fact that these kcups come in a single box, not as much waste.<br /><br />Anyway, my picky husband said that this coffee was surprisingly good. I'm happy without the extra packaging and the lower price tag.<br /><br />Now they just need to put this on Subscribe and Save.
+helpScore: 0.954545454545
+helpful: True
+---------------------------------------------------------------------------
+false negative
+ProductId: B004U49QU2
+HelpfulnessNumerator: 9
+HelpfulnessDenominator: 9
+Score: 2
+Summary: Not Worth the Calories
+Text:  The Chips Ahoy! Chewy Gooey Megafudge cookies are a huge disappointment as a new product offering from Nabisco.  The cookies have an awful fake chocolate flavor, and the they are chalky tasting and dry.  There was nothing gooey about the center of the cookie.  It was more of the same dry, grainy taste as the "cookie" part.  And at 150 calories for 2 cookies (which are less than 2 inches in diameter) they are not worth eating.  They have 7 grams of fat in two small cookies, of which 3.5 is saturated fat, coming from coconut and palm oils.<br /><br />I will however, give credit to Nabisco for two things.  They did load the cookies with a lot of white chocolate chips so they certainly did not skimp on that ingredient, and the resealable package is a great idea.  The opening for the package pulls apart from the top, and there is a sticky type substance that hold the wrapper in place once you reseal it.  I would not consider it air tight, but it certainly makes a good seal for the package.  I can not recommend these cookies based on the taste, texture, and high caloric intake per small serving size.  I will not be buying these cookies again.
+helpScore: 1.0
+helpful: True
+---------------------------------------------------------------------------
+***************************************************************************
+FALSE POSITIVES
+***************************************************************************
+false positive
+ProductId: B001J11616
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 5
+Summary: Fantastic fun soda!
+Text:  Ramune has to be one of the coolest and most unique soft drinks that I have ever seen. My kids had been dying to try this stuff ever since they had come across it on J-Box, the popular Japanese import webshop. Ramune is incredibly popular in it's native Japan, and now it looks like the fun is beginning to spread here in the States.<br /><br />To open a bottle of Ramune, you have to remove the top, pop out this little plastic plunger from it's casing, and then use the plunger to pop out a marble that seals the neck of the bottle. The neck of the bottle has two indentions that will hold the marble when you tip the bottle back to drink from it, keeping the neck of the bottle clear. Hold the bottle the wrong way, and the marble will clog things up. You can avoid carbonated overflow when opening by pressing gently on the plunger until it depresses the marble; knock it down with force and you're sure to get a fountain of spray.<br /><br />The melon flavor reviewed here has a very unique taste. Think honeydew more than watermelon, sweet and light with that distinctive Ramune lemon-lime backbone flavor holding everything together. Truly a treat.<br /><br />This is a way fun product that kids (and most adults) will have a blast with. It's a smaller portion (8 ounces) than what we're used to here in the US, but that actually works out for us as we're trying to limit the amount of soda that our kids consume. Ramune works great as an occasional soda treat and the fun factor alone keeps us coming back for more. Ramune is easy to find at just about any Asian market, but for those who don't have easy access to one, ordering here on Amazon would be recommended.<br /><br />Also, for the safety conscious, I can attest that these drinks are very safe. We've never had a problem with the marble, and I can't find any reports on the internet that would indicate any safety concerns with this drink. It's not a choking hazard, in other words. Ramune means 'carbonated' in Japanese, and I can highly recommend this wonderful and very different drink.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B000GZWDNG
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 4
+Summary: GF alternative to Ramen
+Text:  GF alternative to Ramen. Spring onion flavor could be found over seasoned. Benefits from letting the noodles set for a few extra minutes to really absorb the broth. Great for camping. Decent price on Amazon, I try not to pay more than $1 a package (Almost $1.50 at my local store.).
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B000H22932
+HelpfulnessNumerator: 1
+HelpfulnessDenominator: 1
+Score: 5
+Summary: Back to the Emerald Isle
+Text:  I've always enjoyed a cup of tea, but after spending part of the summer of 2007 in Ireland I came home searching out that wonderful blend that is offered whenever you enter someone's home.  "Cup of tea?  Would you like a cup of tea?" Everywhere you went, that is what you drank.  I came home looking for the tea that would remind me of Ireland.  I found it in Barry's Irish Breakfast Tea and Barry's Gold Blend.  It is fabulous!
+helpScore: 1.0
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B003MUOOAM
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 4
+Summary: Stride 2.0
+Text:  I chew this gum pretty much constantly (occasionally other Stride flavours too, but I prefer this one - just the right blend of mild sweetness and mint). I take a prescription that makes me really nauseous and sensitive to smells, and chewing gum helps to combat that. I've tried a ton of different brands, and so far, this is the only one that doesn't give me horrible cramps. I suspect it's because most other sugar-free gums contain maltitol, but anyway, Stride's the only kind of gum I'll buy, particularly this kind.<br /><br />As some reviewers have pointed out, if you order this on here either via Subscribe & Save or as a single order, you'll still get the Stride 2.0 version, not the original Sweet Peppermint (RIP, and they really should change the photo). It's not as good as the original was, but it's still a pretty decent flavour and just as long-lasting. The sweetness does sort of wear off, after a while, and it becomes a bit bitter (but if you're like me and like bitter stuff, it's all for the better!).
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B001EO5S58
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 1
+Summary: Bad Buy
+Text:  I recently found out I was allergic to gluten and went looking for granola bars. This was the closest I could find, and I was very very disappointed. They taste horrendous. I took one bite and had to throw the rest out. It's a shame, but I recommend finding another brand, because even by GF standards (which I consider lower than wheat containing standards) these are really bad. Try Udi's GF granola that comes in a bag if you're looking for something sweet for breakfast. It tastes great.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B002YJCAKI
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 5
+Summary: lipton green teas bags with acai
+Text:  I love the superfruit acaia flavor in this green tea...I kow green tea is soooooooo good for me but I dont care for the taste of it...however, this version is very enjoyable with none of the bitter green tea taste.  this price was also very reasonable.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B001EQ55V8
+HelpfulnessNumerator: 5
+HelpfulnessDenominator: 6
+Score: 4
+Summary: Do your own scattered, covered, and chunked!
+Text:  If you are a fan of a certain chain of restaurant's hashbrowns these are the ticket!  Very close results, and very easy and fast to cook.  A fair warning.. don't need any salt on these when cooking.
+helpScore: 0.833333333333
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B000WVYB8Y
+HelpfulnessNumerator: 1
+HelpfulnessDenominator: 1
+Score: 5
+Summary: Excellent Product
+Text:  Have used Natural Vitality Calm for about a month now & I highly recommend it,my back doesn't bother me as it did We use for constipation,& my fasting blood sugar is lower can't explain that  except only  thing different  is now  I'm using Natural Vitality Calm I began using it on the recommendation of a friend also read Amazon reviews that helped in my decision<br />Before our current supply is gone I intend to reorder & continue to use it daily<br />Is excellent product
+helpScore: 1.0
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B0009X62ZA
+HelpfulnessNumerator: 1
+HelpfulnessDenominator: 1
+Score: 5
+Summary: Miracle-grow for cats!
+Text:  We originally got this for our Bengals, it was what the breeder recommended.  Then, we found two kittens only a day old on the street and adopted them.<br /><br />After they were weaned they took to this stuff like gangbusters.  Now, they are both 20 plus pound monster kitties.  Never sick a day in their lives, glossy coats, full of energy.<br /><br />Picky cats love Felidae, it is full of healthy ingredients.  Obviously, however, it's not the best food for cat weight control! Now the boys are on a "light" cat food, and they aren't quite as happy.<br /><br />So, I suggest this for Bengals or cats who need to put on a few pounds.
+helpScore: 1.0
+helpful: False
+---------------------------------------------------------------------------
+false positive
+ProductId: B000HDI5O8
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 5
+Summary: Organic Canned Pumpkin
+Text:  Product arrived quickly and is great!  I've missed canned pumpkin this year and was so glad to find it online.
+helpScore: nan
+helpful: False
+---------------------------------------------------------------------------
+
